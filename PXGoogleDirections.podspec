@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name                  = 'PXGoogleDirections'
+    s.name                  = 'PXGoogleDirections2'
     s.version               = '1.2.3'
 
     s.homepage              = "https://github.com/poulpix/PXGoogleDirections"
