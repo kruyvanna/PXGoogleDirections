@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name                  = 'PXGoogleDirections'
-    s.version               = '1.2.2'
+    s.version               = '1.2.3'
 
     s.homepage              = "https://github.com/poulpix/PXGoogleDirections"
     s.summary               = 'Google Directions API SDK for iOS, entirely written in Swift'
