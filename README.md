@@ -1,9 +1,9 @@
 # PXGoogleDirections
 Google Directions API SDK for iOS, entirely written in Swift.
 
-[![Cocoapods](https://img.shields.io/cocoapods/v/PXGoogleDirections.svg)](https://img.shields.io/cocoapods/v/PXGoogleDirections.svg)
-[![Cocoapods](https://img.shields.io/cocoapods/p/PXGoogleDirections.svg)](https://img.shields.io/cocoapods/p/PXGoogleDirections.svg)
-[![Cocoapods](https://img.shields.io/cocoapods/l/PXGoogleDirections.svg)](https://img.shields.io/cocoapods/l/PXGoogleDirections.svg)
+[![CocoaPods](https://img.shields.io/cocoapods/v/PXGoogleDirections.svg)](https://img.shields.io/cocoapods/v/PXGoogleDirections.svg)
+[![CocoaPods](https://img.shields.io/cocoapods/p/PXGoogleDirections.svg)](https://img.shields.io/cocoapods/p/PXGoogleDirections.svg)
+[![CocoaPods](https://img.shields.io/cocoapods/l/PXGoogleDirections.svg)](https://img.shields.io/cocoapods/l/PXGoogleDirections.svg)
 
 ## Features
 - Supports all features from the Google Directions API as of March 2015 (see here for a full list: https://developers.google.com/maps/documentation/directions)
@@ -16,7 +16,7 @@ Google Directions API SDK for iOS, entirely written in Swift.
 - Available through CocoaPods
 
 ## Installation
-### From Cocoapods
+### From CocoaPods
 To use PXGoogleDirections in your project add the following 'Podfile' to your project:
 
 ```
